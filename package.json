@@ -63,7 +63,7 @@
     "react-intl-po": "2.2.2",
     "sass": "1.54.4",
     "sass-loader": "13.0.2",
-    "sizzle": "2.3.5",
+    "sizzle": "2.3.10",
     "string-replace-loader": "3.1.0",
     "stylelint": "9.5.0",
     "stylelint-config-standard": "18.2.0",
